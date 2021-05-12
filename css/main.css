@@ -1,0 +1,16 @@
+/* Inserta tu codigo aqui */
+
+#top{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+}
+#logo{
+    display: inline-block;
+    width: 200px;
+}
+
+#brote{
+    height: 400px;
+    background-image: url('../img/semilla.jpg');
+}
