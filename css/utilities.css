@@ -17,9 +17,19 @@
 }
 
 /* Shortcuts */
+
 #menu{
-	display: inline-block;
-	vertical-align: middle;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+	font-family: "opensans";
+}
+#vinculo:link, #vinculo:visited, #vinculo:active{
+	text-decoration: none;
+	color: #4D4D4D;
+}
+
+.fuente{
 	font-family: "opensans";
 }
 
@@ -37,6 +47,9 @@
 }
 .pd-5 {
 	padding: 5%;
+}
+.py-10{
+		padding: 0% 10%;
 }
 .pd-5-10{
 	padding: 5% 10%;

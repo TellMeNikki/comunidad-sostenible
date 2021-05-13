@@ -7,10 +7,47 @@
 }
 #logo{
     display: inline-block;
-    width: 200px;
+    width: 100px;
 }
 
 #brote{
     height: 400px;
     background-image: url('../img/semilla.jpg');
+}
+
+#metodologia{
+    height: 400px;
+    background-image: url('../img/fondo.jpg');
+}
+#foto-met{
+    height: 400px;
+    background-image: url('../img/metodo.JPG');
+}
+
+#FtoProy1{
+    height: 400px;
+    background-image: url('../img/fotos/img-0352.JPG');
+    background-size:contain;
+    background-repeat: no-repeat;
+	background-position: top;
+
+}
+#FtoProy2{
+    height: 400px;
+    background-image: url('../img/fotos/img-9246.jpg');
+    background-size:contain;
+    background-repeat: no-repeat;
+	background-position: top;
+}
+#blog{
+    min-height: 300px;
+    background-image: url('../img/fondo2.jpg');
+}
+.ftoBlog{
+    height: 180px;
+}
+
+.sociales{
+    display: inline-block;
+    min-height: 200px;
 }
